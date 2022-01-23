@@ -1,8 +1,8 @@
 # Jekyll GitBook
 
-Make Jelly site have a GitBook look!
+강지우의 기술블로그
 
-## Demo
+## demo
 
 Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
 
