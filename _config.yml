@@ -1,8 +1,8 @@
 # Configurations
 title:            Jekyll Gitbook
 longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+author:           JWK
+email:            jwk9677@naver.com
 description: >
   Build Jekyll site with the GitBook style.
 
@@ -10,7 +10,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://jwk061214.github.io'
-baseurl:          '/java_blog'
+baseurl:          ''
 rss:              RSS
 
 toc:
